@@ -1,0 +1,2 @@
+- 👋 Olá, eu me chamo Gustavo
+- 👀 Tenho interesse em IA, criptografia, física, matemática
