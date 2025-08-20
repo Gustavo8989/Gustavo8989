@@ -10,6 +10,7 @@
 ## 🛠️ Minhas principais skills:
 - Python (Data Science / Machine Learning / Automação)
 - C / C++
+- Java (Desenvolvimento web)
 - Resolução de Problemas (LeetCode)
 - Competição de Dados (Kaggle)
 
