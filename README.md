@@ -4,12 +4,12 @@
 
 ## Sobre mim
 - 🔭 Atualmente estudando **Inteligência Artificial**, **Machine Learning**, **Física Computacional** e **Matemática Aplicada**.
-- 💻 Linguagens que mais uso: **Python**, **C++**, e um pouco de **C**.
-- 🌱 Sempre aprendendo sobre **Ciência de Dados**, **Análise de Dados** e **Automação com Bots**.
+- 💻 Linguagens que mais uso: **Python**, **C++** e **Java**.
+- 🌱 Sempre aprendendo sobre **Ciência de Dados**, **Análise de Dados**, **Automação com Bots**, **Machine Learning** e **Desenvolvimento web**.
 
 ## 🛠️ Minhas principais skills:
 - Python (Data Science / Machine Learning / Automação)
-- C / C++
+- C / C++ (Sistemas Robusto)
 - Java (Desenvolvimento web)
 - Resolução de Problemas (LeetCode)
 - Competição de Dados (Kaggle)
