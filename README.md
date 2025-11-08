@@ -1,7 +1,5 @@
 # 👋 Olá, sou o Gustavo!
 
-🎓 Apaixonado por Ciência, Tecnologia e Resolver Problemas.
-
 ## Sobre mim
 - 🔭 Atualmente estudando **Inteligência Artificial**, **Machine Learning**, **Física Computacional** e **Matemática Aplicada**.
 - 💻 Linguagens que mais uso: **Python**, **C++** e **Java**.
